@@ -64,5 +64,22 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-BigBlueButton is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://bigbluebutton.org/
+BigBlueButton is an open source virtual classroom software platform designed for online learning and education. It provides real‑time video, audio, screen sharing, breakout rooms, whiteboards, and integration with learning management systems. The project is community‑driven, freely available, and used by schools, universities, and enterprises worldwide to deliver interactive remote classes and webinars.
+
+**Areas:** Company · Education · OpenSource · VideoConferencing · E‑Learning
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://bigbluebutton.org/)
+- [Documentation](https://docs.bigbluebutton.org/)
+- [Support](https://bigbluebutton.org/support/)
+- [Privacy policy](https://bigbluebutton.org/privacy-policy/)
+- [GitHub](https://github.com/bigbluebutton)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/bigbluebutton/](https://apis.io/providers/bigbluebutton/).
